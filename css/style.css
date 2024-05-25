@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -75,8 +76,8 @@ h1 {
     flex: 1;
 }
 
-.complete-btn {
-    background: #28a745;
+.remove-btn {
+    background: #dc3545;
     border: none;
     color: white;
     border-radius: 5px;
@@ -85,6 +86,6 @@ h1 {
     margin-left: 10px;
 }
 
-.complete-btn:hover {
-    background: #218838;
+.remove-btn:hover {
+    background: #c82333;
 }
